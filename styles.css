@@ -1,0 +1,67 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+div {
+    float: left;
+  }
+#pint
+{
+  border-radius: 5px;
+}
+a:visited, a:link
+{
+    text-decoration: none;
+    color: black;
+}
+header
+{
+    background: black
+}
+section
+{
+    background: rgb(80, 80, 80);
+    padding: 2px;
+    display: flex;
+    flex-direction: row;
+}
+footer
+{
+    background: white; 
+    margin-top: 150px   
+}
+button
+{
+    opacity: .8;
+    background-color: white;
+    border-radius: 5px;
+}
+#buttonAlign
+{
+    display: inline-block;
+    margin: auto;
+    width: 150px;   
+}
+table, th, td 
+{
+    border: 1px solid black;
+    margin-bottom: 200px;
+    margin-left: 500px;
+}
+#white1
+{
+    background: white;
+}
+#grey1
+{
+    background: rgba(128, 128, 128, 0.473);
+}
+#white2
+{
+    background: white;
+}
+#grey2
+{
+    background: rgba(128, 128, 128, 0.473);
+}
